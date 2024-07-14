@@ -1,0 +1,1061 @@
+{
+  "SA": [
+    { "ar-title": "الرياض", "en-title": "" },
+    { "ar-title": "جدة", "en-title": "" },
+    { "ar-title": "مكة", "en-title": "" },
+    { "ar-title": "المدينة المنورة", "en-title": "" },
+    { "ar-title": "الدمام", "en-title": "" },
+    {
+      "ar-title": "تبوك",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بريدة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الطائف",
+      "en-title": ""
+    },
+    {
+      "ar-title": "خميس مشيط",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حائل",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الهفوف",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حفر الباطن",
+      "en-title": ""
+    },
+    {
+      "ar-title": "نجران",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أبها",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجبيل",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المبرز",
+      "en-title": ""
+    },
+    {
+      "ar-title": "السيح",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ينبع",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الثقبة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "سكاكا",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عرعر (مدينة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عنيزة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "جيزان",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القريات",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الظهران",
+      "en-title": ""
+    },
+    {
+      "ar-title": "تاروت (جزيرة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بيشة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الرس",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الخبر (السعودية)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مدينة الجبيل الصناعية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الحوية (الطائف)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القطيف (مدينة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "وادي الدواسر (مدينة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ينبع الصناعية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "دومة الجندل",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العيون (السعودية)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حوطة بني تميم",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بدر (المدينة المنورة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ليلى (الأفلاج)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أحد المسارحة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "رياض الخبراء",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مدينة الملك خالد العسكرية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ظهران الجنوب",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العمران (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القوز (محافظة القنفذة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الكلابية (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المنيزلة (السعودية)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجارودية (القطيف)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القرن (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "محايل عسير",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الباحة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "شرورة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الدوادمي",
+      "en-title": ""
+    },
+    {
+      "ar-title": "سيهات",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أحد رفيدة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الخفجي",
+      "en-title": ""
+    },
+    {
+      "ar-title": "طبرجل",
+      "en-title": ""
+    },
+    {
+      "ar-title": "رابغ",
+      "en-title": ""
+    },
+    {
+      "ar-title": "صبيا",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المجمعة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بحرة (مكة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أبو عريش",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الزلفي",
+      "en-title": ""
+    },
+    {
+      "ar-title": "رفحاء",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الدرعية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "طريف",
+      "en-title": ""
+    },
+    {
+      "ar-title": "رأس تنورة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المزاحمية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "البدائع",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عفيف",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أملج (تبوك)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "صفوى",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بقيق",
+      "en-title": ""
+    },
+    {
+      "ar-title": "صامطة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "البكيرية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القنفذة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عرقة (الرياض)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجموم",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العلا",
+      "en-title": ""
+    },
+    {
+      "ar-title": "النعيرية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ضباء",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الدلم",
+      "en-title": ""
+    },
+    {
+      "ar-title": "تيماء (مدينة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "تربة (مدينة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بلجرشي",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الوجه",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المذنب",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بيش (مدينة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "شقراء",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الطرف",
+      "en-title": ""
+    },
+    {
+      "ar-title": "رنية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القويعية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الخرمة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القيصومة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ثول",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العوامية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المخواة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ضمد",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حقل (تبوك)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "السليل",
+      "en-title": ""
+    },
+    {
+      "ar-title": "رماح",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الحناكية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العاقول",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المشعلية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "النماص",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القديح",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجش (القطيف)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المجاردة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الليث",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مهد الذهب",
+      "en-title": ""
+    },
+    {
+      "ar-title": "سبت العلاية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "خليص",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عنك (القطيف)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المنيزلة (السعودية)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العمران (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "رياض الخبراء",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الكلابية (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العقيق (الباحة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الذيبية (حفر الباطن)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القرين (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الظبية (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجارودية (القطيف)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "قبة (محافظة الأسياح)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجبيل (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجفر (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القارة (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الرميلة (السعودية)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المنصورة (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "البديع والقرفي",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العالية (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الخضراء (صبيا)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الخبراء (القصيم)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القرن (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الحريق (الرياض)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عشيرة (محافظة الطائف)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الاثنين (عسير)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حاكمة أبي عريش",
+      "en-title": ""
+    },
+    {
+      "ar-title": "البديع الشمالي (الأفلاج)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الخوبة (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المركز (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مركز الحديثة (القريات)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العارضة (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أم الدوم",
+      "en-title": ""
+    },
+    {
+      "ar-title": "منطقة مكة المكرمة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الحوطة (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حي القطار (الخرج)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الرويضة (توضيح)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الحلوة (حوطة بني تميم)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "صعبر",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الحسيني (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بحر أبو سكينة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بئر بن هرماس",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الدليمية (القصيم)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "اليمامة (الخرج)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الشقيق (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الخضراء (مكة المكرمة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المراح (الأحساء)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الملاحة (القطيف)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مركز العيساوية (القريات)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "روضة ابن هباس",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القوارة (بريدة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "جبة (السعودية)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عرجاء (الدوادمي)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مركز الجديدة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "اللقية (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الركوبة (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ظلم (مكة المكرمة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المباركة (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الذيبية (القصيم)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "سبت العلاية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "خليص",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حوطة سدير",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الحليلة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الليث",
+      "en-title": ""
+    },
+    {
+      "ar-title": "البطالية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ثول",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المجاردة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الحاير",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المشعلية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الحناكية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أم الحمام",
+      "en-title": ""
+    },
+    {
+      "ar-title": "خيبر",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مهد الذهب",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الدائر",
+      "en-title": ""
+    },
+    {
+      "ar-title": "تنومة (عسير)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العويقيلة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "النابية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "فرسان (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "سراة عبيدة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بقعاء",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أم الساهك",
+      "en-title": ""
+    },
+    {
+      "ar-title": "البدع (تبوك)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "قلوة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ساجر",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عرقة (الرياض)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الأوجام",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجشة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجش (القطيف)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مرات",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ضرما",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العيص",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الأرطاوية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الهياثم",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أضم",
+      "en-title": ""
+    },
+    {
+      "ar-title": "جعرانة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المندق",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حلة محيش",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مركز صوير",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حريملاء",
+      "en-title": ""
+    },
+    {
+      "ar-title": "طريب",
+      "en-title": ""
+    },
+    {
+      "ar-title": "تمير",
+      "en-title": ""
+    },
+    {
+      "ar-title": "التويثير",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العضيلية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "قرية العليا",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الثمد (خيبر)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الدرب",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الهدا",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الغاط",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حرمة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المويه",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الخويلدية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العيينة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المظيلف",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجرادية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "التوبي",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عيون الجواء",
+      "en-title": ""
+    },
+    {
+      "ar-title": "تثليث (مدينة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حبونا",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المضايا",
+      "en-title": ""
+    },
+    {
+      "ar-title": "العيدابي",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المطعن",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الطوال",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ثادق",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الشقيري",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المحفر",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ذهبان",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الشنان",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الحائط",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المليداء",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مستورة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مسلية (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عقلة الصقور",
+      "en-title": ""
+    },
+    {
+      "ar-title": "عين بن فهيد",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الفضول (قرية)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "المطيرفي",
+      "en-title": ""
+    },
+    {
+      "ar-title": "السفانية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "بني معن",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أبو السلع",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مليجة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "جليجلة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الشماسية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الجاضع",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مزهرة (جازان)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حايرة السلم",
+      "en-title": ""
+    },
+    {
+      "ar-title": "رخية",
+      "en-title": ""
+    },
+    {
+      "ar-title": "دخنة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "تبالة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الفويلق",
+      "en-title": ""
+    },
+    {
+      "ar-title": "أبو السداد",
+      "en-title": ""
+    },
+    {
+      "ar-title": "القاعد",
+      "en-title": ""
+    },
+    {
+      "ar-title": "الضبيعة",
+      "en-title": ""
+    },
+    {
+      "ar-title": "حالة عمار",
+      "en-title": ""
+    },
+    {
+      "ar-title": "تصلال",
+      "en-title": ""
+    },
+    {
+      "ar-title": "ميسان (مدينة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "السديرة (مكة)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "تربة (حائل)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "نعجان (الدلم)",
+      "en-title": ""
+    },
+    {
+      "ar-title": "مركز الفياض",
+      "en-title": ""
+    }
+  ]
+}
